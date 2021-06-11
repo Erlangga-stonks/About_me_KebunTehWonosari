@@ -3,11 +3,11 @@
 
 <div align="center">
   
-   <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/er.png" width="170px">
-  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/tya.png" width="170px">
-  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/rama.png" width="170px">
-  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/putri.png" width="170px">
-  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/rhemzy.png" width="170px">
+   <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/er.png" width="150px">
+  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/tya.png" width="150px">
+  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/rama.png" width="150px">
+  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/putri.png" width="150px">
+  <img src="https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/photos/rhemzy.png" width="150px">
 </div>  
 
 
