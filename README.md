@@ -12,7 +12,7 @@
 
 
   <tr>
-    <th float="left" width="100px">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Erlangga Rizal M. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Chintya Puja &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Ramadhani AA. &ensp;&ensp;&ensp;&ensp;&ensp; Baiq Mukkaromah &ensp;&ensp;&ensp;&ensp;&ensp; Rhemzy Putra M.</th>
+    <th float="left" width="100px">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Erlangga Rizal M. &ensp;&ensp;&ensp;&ensp; Chintya Puja &ensp;&ensp;&ensp;&ensp;&ensp; Ramadhani AA. &ensp;&ensp;&ensp;&ensp;&ensp; Baiq Mukkaromah &ensp;&ensp;&ensp; Rhemzy Putra M.</th>
   </tr>
 
   
